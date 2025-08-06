@@ -74,6 +74,7 @@ protobuf==6.31.1; python_version >= '3.9'
 pyasn1==0.6.1; python_version >= '3.8'
 pyasn1-modules==0.4.2; python_version >= '3.8'
 pybase64==1.4.2; python_version >= '3.8'
+pyboxen==1.2.0
 pydantic==2.11.7; python_version >= '3.9'
 pydantic-core==2.33.2; python_version >= '3.9'
 pydantic-settings==2.10.1; python_version >= '3.9'
