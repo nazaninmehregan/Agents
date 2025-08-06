@@ -4,7 +4,7 @@
 [![LangChain](https://img.shields.io/badge/LangChain-Latest-green.svg)](https://langchain.com/)
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-orange.svg)](https://openai.com/)
 
-An intelligent SQL query agent built with LangChain that can understand natural language requests, execute SQL queries, and generate beautiful HTML reports. This project demonstrates AI agent capabilities including function calling, memory management, and custom tool integration.
+An intelligent SQL query agent built with LangChain that can understand natural language requests, execute SQL queries, and generate HTML reports. This project demonstrates AI agent capabilities including function calling, memory management, and custom tool integration.
 
 ## 🌟 Features
 
