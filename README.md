@@ -35,7 +35,7 @@ An intelligent SQL query agent built with LangChain that can understand natural 
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.13
 - OpenAI API Key
 - pipenv or pip
 
@@ -136,20 +136,6 @@ The included sample database contains:
 - **Orders**: Transaction records
 - **Addresses**: Customer shipping information
 - **Carts**: Shopping cart functionality
-
-## 🔧 Configuration
-
-### Environment Variables
-```bash
-OPENAI_API_KEY=your_openai_api_key_here
-OPENAI_MODEL=gpt-4  # Optional: specify model
-```
-
-### Customization Options
-- **Database**: Replace `db.sqlite` with your own database
-- **Tools**: Add custom tools in the `tools/` directory
-- **Handlers**: Modify `handlers/` for custom logging/debugging
-- **Prompts**: Adjust system prompts in `main.py`
 
 ## 📊 Sample Output
 
